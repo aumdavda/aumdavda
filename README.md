@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Project Management , Marketing , Artificial intelligence , Web3.0 **
 
-- 👯 I’m looking to collaborate on **All things Blockchain and fullstack**
+- 👯 I’m looking to collaborate on **All things Blockchain, Data Analysis and Product**
 
 - 💬 Ask me about **blockchain , finance , Product**
 
