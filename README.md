@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aumdavda&label=Profile%20views&color=0e75b6&style=flat" alt="aumdavda" /> </p>
 
-- 🌱 I’m currently learning **Nextjs,Web3.js,sanity.io**
+- 🌱 I’m currently learning **Project Management , Marketing , Artificial intelligence , Web3.0 **
 
 - 👯 I’m looking to collaborate on **All things Blockchain and fullstack**
 
-- 💬 Ask me about **blockchain , finance**
+- 💬 Ask me about **blockchain , finance , Product**
 
 - 📫 How to reach me **aum.davda@gmail.com**
 
